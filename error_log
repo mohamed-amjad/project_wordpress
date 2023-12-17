@@ -1,0 +1,9 @@
+[15-Dec-2023 12:33:13 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
+[15-Dec-2023 12:33:16 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
+[15-Dec-2023 12:33:20 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
+[15-Dec-2023 12:33:21 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
+[15-Dec-2023 12:33:30 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
+[15-Dec-2023 12:33:36 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
+[15-Dec-2023 14:27:56 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Dec-2023 14:33:27 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
+[15-Dec-2023 14:36:38 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/devreer4/public_html/74/wp-content/plugins/depicter/app/src/WordPress/ShortcodesServiceProvider.php on line 48
